@@ -12,7 +12,7 @@
 
 <h3 align="center">⚡ A Young Full-Stack Engineer & CS Student ⚡</h3>
 
-- 🔭 I’m currently working as a **Backend Developer** 🔴 [![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
+- 🔭 I’m currently working as a **Backend Developer** 🔴
 
 - 💠 I have **6+ months** of experience in programming! 🟣
 

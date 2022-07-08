@@ -33,7 +33,7 @@
 
 ---
 <h2 align="center">MY STATS</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=dark&show_icons=true&locale=en" alt="huzaifamk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=radical&show_icons=true&locale=en" alt="huzaifamk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&" alt="huzaifamk" /></p>
 

@@ -20,11 +20,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/huzaifamk](github.com/huzaifamk)
 
-- 💬 Ask me about **Go & JS**
+- 💬 Ask me about **Go | JS | HTML | CSS | CLEAN ARCHITECTURE | DATABASES | CLOUD COMPUTING**
 
 - 📫 How to reach me **malikhuzaifa9x@gmail.com**
 
-- 📫 2022 Goals: **Blockchain | Web3 | AI**
+- 📫 2022 Goals: **Blockchain | Web3 | Artificial Intelligence**
 
 - ⚡ Fun fact **I keep learning!**
 

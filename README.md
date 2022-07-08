@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 
-- 🔭 I have **6+ months** of experience in programming! 🟣
+- 💠 I have **6+ months** of experience in programming! 🟣
 
 - 🌱 I’m currently learning **Flutter App Development** 🟠
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: **malikhuzaifa9x@gmail.com** 🔴
 
-- 🧿 2022 Goals: **Blockchain | Web3 | Artificial Intelligence** 🟤
+- 🎯 2022 Goals: **Blockchain | Web3 | Artificial Intelligence** 🟤
 
 - ⚡ Fun fact: **I keep learning!** 🔘
 

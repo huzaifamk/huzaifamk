@@ -14,6 +14,8 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 
+- 🔭 I have **6+ months** of experience in programming! 🟣
+
 - 🌱 I’m currently learning **Flutter App Development** 🟠
 
 - 👯 I’m looking to collaborate on **Golang | JavaScript** 🟡
@@ -22,7 +24,7 @@
 
 - 💬 Ask me about **Go | JS | HTML | CSS | Clean Architecture | Databases| Cloud Computing** 🔵
 
-- 📫 How to reach me: **malikhuzaifa9x@gmail.com** 🟣
+- 📫 How to reach me: **malikhuzaifa9x@gmail.com** 🔴
 
 - 🧿 2022 Goals: **Blockchain | Web3 | Artificial Intelligence** 🟤
 

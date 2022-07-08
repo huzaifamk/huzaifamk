@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Huzaifa Mk - aka Hmk 🔰</h1>
 
-[![Upwork](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][youtube]
+[![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -91,7 +91,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

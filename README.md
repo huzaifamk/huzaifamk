@@ -16,7 +16,7 @@
 
 - 💠 I have **6+ months** of experience in programming! 🟣
 
-- 🌱 I’m currently learning **Flutter App Development** 🟠
+- ⚙️ I’m currently learning **Flutter App Development** 🟠
 
 - 👯 I’m looking to collaborate on **Golang | JavaScript** 🟡
 

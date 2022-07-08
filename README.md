@@ -36,8 +36,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&" alt="huzaifamk" /></p>
 
-[![Clean-Architecture-Project](https://github-readme-stats.vercel.app/api/pin/?username=huzaifamk&repo=Clean-Architecture-Project)](https://github.com/HuzaifaMk/Go-Clean-Arch-Project-1)
-
 [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc
 [linkedin]: https://linkedin.com/in/huzaifamk

@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **malikhuzaifa9x@gmail.com**
 
-- 📫 2022 Goals: **Blockchain | Web3 | Artificial Intelligence**
+- 🧿 2022 Goals: **Blockchain | Web3 | Artificial Intelligence**
 
 - ⚡ Fun fact **I keep learning!**
 

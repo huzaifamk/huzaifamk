@@ -2,10 +2,10 @@
 
 [![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
 [![Fiverr Profile](https://img.shields.io/badge/-Fiverr-red?style=for-the-badge&logo=fiverr)][fiverr]
-[![LinkedIn Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][linkedin]
-[![Facebook Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][facebook]
-[![Instagram Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][instagram]
-[![StackOverflow Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][stackoverflow]
+[![LinkedIn Profile](https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin)][linkedin]
+[![Facebook Profile](https://img.shields.io/badge/-facebook-yellow?style=for-the-badge&logo=facebook)][facebook]
+[![Instagram Profile](https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram)][instagram]
+[![StackOverflow Profile](https://img.shields.io/badge/-stackoverflow-ff69b4?style=for-the-badge&logo=stackoverflow)][stackoverflow]
 
 
 
@@ -89,13 +89,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
 [upwork]: https://upwork.com/freelancers/huzaifamk
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc
+[linkedin]: https://linkedin.com/in/huzaifamk
+[fiverr]: https://fiverr.com/huzaifa_mk
+[stackoverflow]: https://stackoverflow.com/users/15244379/hmk

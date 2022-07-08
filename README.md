@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: **malikhuzaifa9x@gmail.com** 🔴
 
-- ⚡ Fun fact: **I keep learning!** 🔘
+- ⚡ Fun fact about me: **I keep learning!** 🔘
 
 - 💬 Ask me about **Go | JS | Clean Architecture | Databases| Cloud Computing** 🔵
 

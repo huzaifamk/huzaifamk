@@ -33,16 +33,9 @@
 
 ---
 <h2 align="center">MY STATS</h2>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=radical&show_icons=true&locale=en" alt="huzaifamk" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=radical&show_icons=true&locale=en" alt="huzaifamk" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&" alt="huzaifamk" /></p>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&" alt="huzaifamk" /></p>
 
 [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc

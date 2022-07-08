@@ -36,7 +36,7 @@
 <h2 align="center">MY STATS</h2>
 <p align="center">&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" /><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p>
 
-<p align="center" width="70%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifamk" alt="huzaifamk" /></a> </p>
+<p align="center" width=40 height=40 > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifamk" alt="huzaifamk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

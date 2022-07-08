@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Golang | JavaScript** 🟡
 
-- 👨‍💻 All of my projects are available at my GitHub! 🟢
+- 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 
 - 💬 Ask me about **Go | JS | HTML | CSS | Clean Architecture | Databases| Cloud Computing** 🔵
 

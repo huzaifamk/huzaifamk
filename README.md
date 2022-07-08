@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/huzaifamk](github.com/huzaifamk)
 
-- 💬 Ask me about **Go | JS | HTML | CSS | CLEAN ARCHITECTURE | DATABASES | CLOUD COMPUTING**
+- 💬 Ask me about **Go | JS | HTML | CSS | Clean Architecture | Databases| Cloud Computing**
 
 - 📫 How to reach me **malikhuzaifa9x@gmail.com**
 

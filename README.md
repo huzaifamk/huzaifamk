@@ -36,6 +36,18 @@
 <h2 align="center">MY STATS</h2>
 <p align="center">&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" /><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifamk&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifamk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifamk" alt="huzaifamk" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/huzaifamkxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huzaifamkxe" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifamk&show_icons=true&locale=en&layout=compact" alt="huzaifamk" /></p>
+
+
 [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc
 [linkedin]: https://linkedin.com/in/huzaifamk

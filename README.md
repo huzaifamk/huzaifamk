@@ -33,6 +33,13 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifamk&show_icons=true&locale=en&layout=compact" alt="huzaifamk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&show_icons=true&locale=en" alt="huzaifamk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&" alt="huzaifamk" /></p>
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   

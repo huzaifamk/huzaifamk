@@ -37,9 +37,7 @@
 <p align="center">&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" /><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p>
 <br>
 
-<p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc

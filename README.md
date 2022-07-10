@@ -6,7 +6,7 @@
 [![Facebook Profile](https://img.shields.io/badge/-facebook-ff69b4?style=for-the-badge&logo=facebook)][facebook]
 [![Instagram Profile](https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram)][instagram]
 [![StackOverflow Profile](https://img.shields.io/badge/-stackoverflow-yellow?style=for-the-badge&logo=stackoverflow)][stackoverflow]
-[![Jobee Profile](https://img.shields.io/badge/-jobee-orange?style=for-the-badge&logo=joplin)][jobee]
+[![Freelancer Profile](https://https://img.shields.io/badge/-FREELANCER-orange?style=for-the-badge&logo=freelancer)][freelancer]
 
 
 
@@ -45,4 +45,4 @@
 [fiverr]: https://fiverr.com/huzaifa_mk
 [stackoverflow]: https://stackoverflow.com/users/15244379/hmk
 [facebook]: https://facebook.com/HuzaifaMkXe
-[jobee]: https://jobee.pk/profile/huzaifamk
+[freelancer]: https://freelancer.com/u/HuzaifaMk

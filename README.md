@@ -36,7 +36,7 @@
 <h2 align="center">MY STATS</h2>
 <p align="center">&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" /><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc

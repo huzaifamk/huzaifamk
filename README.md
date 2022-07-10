@@ -4,7 +4,7 @@
 [![Fiverr Profile](https://img.shields.io/badge/-Fiverr-red?style=for-the-badge&logo=fiverr)][fiverr]
 [![LinkedIn Profile](https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin)][linkedin]
 [![Facebook Profile](https://img.shields.io/badge/-facebook-ff69b4?style=for-the-badge&logo=facebook)][facebook]
-[![Instagram Profile](https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram)][instagram]
+[![Instagram Profile](https://img.shields.io/badge/-insta-blue?style=for-the-badge&logo=instagram)][instagram]
 [![StackOverflow Profile](https://img.shields.io/badge/-stackoverflow-yellow?style=for-the-badge&logo=stackoverflow)][stackoverflow]
 [![Freelancer Profile](https://img.shields.io/badge/-freelancer-orange?style=for-the-badge&logo=freelancer)][freelancer]
 

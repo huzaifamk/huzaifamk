@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 
-- 💠 I have **6+ months** of experience in programming! 🟣
+- 💠 I have **8+ months** of experience in programming! 🟣
 
 - ⚙️ I’m currently learning **Flutter App Development** 🟠
 

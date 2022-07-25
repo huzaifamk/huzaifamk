@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">⚡ A Young Full-Stack Engineer & CS Student ⚡</h3>
+<h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 

@@ -16,7 +16,7 @@
 
 - 💠 I have **1+ years** of experience in programming! 🟣
 
-- ⚙️ I’m currently learning **React & Next JS** 🟠
+- ⚙️ I’m currently learning **React, Next, & Vue JS** 🟠
 
 - 👯 I’m looking to collaborate on **Golang | JavaScript** 🟡
 

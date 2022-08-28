@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a **Go Backend Developer** 🔴
 
-- 💠 I have **1+ years** of experience in programming! 🟣
+- 💠 I have **1.5+ years** of experience in programming! 🟣
 
 - ⚙️ I’m currently learning **Rust, Elixir & Ruby** 🟠
 

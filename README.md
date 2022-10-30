@@ -16,9 +16,9 @@
 
 - 💠 I have **1.5+ years** of experience in programming! 🟣
 
-- ⚙️ I’m currently learning **Rust, Elixir & Ruby** 🟠
+- ⚙️ I’m currently learning **Python & Node JS** 🟠
 
-- 👯 I’m looking to collaborate on **Golang Open-Source Projects!** 🟡
+- 👯 I’m looking to collaborate on **Golang, Python & Node Open-Source Projects!** 🟡
 
 - 🎯 2022 Goals: **Rust | Blockchain | Web3** 🟤
 

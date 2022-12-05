@@ -24,8 +24,6 @@
 
 - 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 
-- 📫 How to reach me: **malikhuzaifa9x@gmail.com** 🔴
-
 - ⚡ Fun fact about me: **I keep learning!** 🔘
 
 - 💬 Ask me about **Backend Architecture | RESTful API | Clean Architecture | Micro-Services** 🔵

@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡
 
-- 🎯 2022 Goals: **Rust | Blockchain | Web3** 🟤
+- 🎯 2023 Goals: **Rust | Blockchain | Web3** 🟤
 
 - 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 

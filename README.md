@@ -12,7 +12,7 @@
 
 <h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
 
-- 🔭 I’m currently working as a **Go Backend Developer** 🔴
+- 🔭 I’m currently working as a **Backend Developer** 🔴
 
 - 💠 I have **1.5+ years** of experience in programming! 🟣
 

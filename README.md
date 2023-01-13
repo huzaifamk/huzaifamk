@@ -30,7 +30,7 @@
 
 <h2 align="center">MY TECH STACK</h2>
 <p align="center"> <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=go,django,flask,express,fastapi,php,laravel,dotnet,elixir,aws,dynamodb,gcp,azure,graphql,heroku,jenkin,html,css,js,bots,git,gitlab,githubactions,kubernetes,docker,cpp,vim&perline=12" />
+<img src="https://skillicons.dev/icons?i=go,django,flask,nodejs,express,fastapi,php,laravel,dotnet,elixir,mongodb,mysql,postgres,redis,aws,dynamodb,gcp,azure,graphql,heroku,jenkins,nginx,html,css,js,bots,git,gitlab,githubactions,kubernetes,docker,cpp,vim&perline=12" />
 </a> </p>
 
 <h2 align="center">MY STATS</h2>

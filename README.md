@@ -16,6 +16,8 @@
 
 - 💠 I have **1.5+ years** of experience in programming! 🟣
 
+- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Node & PHP** 🔘
+
 - ⚙️ I’m currently learning **Python, Node JS & Solidity** 🟠
 
 - 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡

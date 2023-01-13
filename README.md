@@ -20,7 +20,7 @@
 
 - ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2), GCP & Azure** 🔵
 
-- ⚙️ I’m currently learning **Python, Node JS & Solidity** 🟠
+- ⚙️ I’m currently learning **PHP Laravel, Web3 Development & Solidity** 🟠
 
 - 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡
 

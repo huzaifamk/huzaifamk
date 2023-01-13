@@ -16,7 +16,9 @@
 
 - 💠 I have **1.5+ years** of experience in programming! 🟣
 
-- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Node & PHP** 🔘
+- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Node & PHP** 🟢
+
+- ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2), GCP & Azure** 🔵
 
 - ⚙️ I’m currently learning **Python, Node JS & Solidity** 🟠
 
@@ -26,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 
-- ⚡ Fun fact about me: **I keep learning!** 🔘
+- ⚡ Fun fact about me: **I keep learning!** 🔴
 
 - 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services** 🔵
 

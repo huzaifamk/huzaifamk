@@ -39,8 +39,8 @@
 
 <h2 align="center">MY STATS</h2>
 <p align="center">&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" />
-<!-- <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p> -->
-<!-- <img align="left" width="47%" src="https://streak-stats.demolab.com?user=huzaifamk&theme=radical" alt="huzaifamk" /></p> -->
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p>
+<img align="left" width="47%" src="https://streak-stats.demolab.com?user=huzaifamk&theme=radical" alt="huzaifamk" /></p>
 </p>
 <p align="center"><img align="right" width="47%" src="https://stats.justsong.cn/api/leetcode/?username=huzaifamk&theme=dark" alt="huzaifamk" /></p>
 <h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;</h2>

@@ -43,7 +43,7 @@
 <img align="left" width="47%" src="https://streak-stats.demolab.com?user=huzaifamk&theme=radical" alt="huzaifamk" /></p>
 </p>
 <p align="center"><img align="center" width="47%" src="https://stats.justsong.cn/api/leetcode/?username=huzaifamk&theme=dark" alt="huzaifamk" /></p>
-<h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+<h3 align="center">&nbsp;</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=chartreuse-dark&langs_count=10&layout=compact" alt="huzaifamk" /></p>
 
 [upwork]: https://upwork.com/freelancers/huzaifamk

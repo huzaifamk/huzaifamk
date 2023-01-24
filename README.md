@@ -45,13 +45,13 @@
 <p align="center"><img align="center" width="47%" src="https://stats.justsong.cn/api/leetcode/?username=huzaifamk&theme=dark" alt="huzaifamk" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=chartreuse-dark&langs_count=10&layout=compact" alt="huzaifamk" /></p> -->
 
-[upwork]: https://upwork.com/freelancers/huzaifamk
+<!-- [upwork]: https://upwork.com/freelancers/huzaifamk
 [instagram]: https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc
 [linkedin]: https://linkedin.com/in/huzaifamk
 [fiverr]: https://fiverr.com/huzaifa_mk
 [stackoverflow]: https://stackoverflow.com/users/15244379/hmk
 [facebook]: https://facebook.com/HuzaifaMkXe
-[freelancer]: https://freelancer.com/u/HuzaifaMk
+[freelancer]: https://freelancer.com/u/HuzaifaMk -->
 
 <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  -->
 

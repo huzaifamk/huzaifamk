@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Huzaifa Mk - aka Hmk 🔰</h1>
 
-[![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
 <!-- [![Fiverr Profile](https://img.shields.io/badge/-Fiverr-red?style=for-the-badge&logo=fiverr)][fiverr] -->
+[![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
 [![LinkedIn Profile](https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin)][linkedin]
 [![Facebook Profile](https://img.shields.io/badge/-facebook-ff69b4?style=for-the-badge&logo=facebook)][facebook]
 [![Instagram Profile](https://img.shields.io/badge/-insta-blue?style=for-the-badge&logo=instagram)][instagram]

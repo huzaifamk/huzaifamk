@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 
-- 💠 I have **1.5+ years** of experience in programming! 🟣
+- 💠 I have **2+ years** of experience in programming! 🟣
 
 - ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Node & PHP** 🟢
 

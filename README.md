@@ -1,14 +1,25 @@
 <h1 align="center">Hi there, I'm Huzaifa Mk - aka Hmk 🔰</h1>
 
-[![Upwork Profile](https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork)][upwork]
-[![Fiverr Profile](https://img.shields.io/badge/-Fiverr-red?style=for-the-badge&logo=fiverr)][fiverr]
-[![LinkedIn Profile](https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin)][linkedin]
-[![Facebook Profile](https://img.shields.io/badge/-facebook-ff69b4?style=for-the-badge&logo=facebook)][facebook]
-[![Instagram Profile](https://img.shields.io/badge/-insta-blue?style=for-the-badge&logo=instagram)][instagram]
-[![StackOverflow Profile](https://img.shields.io/badge/-stackoverflow-yellow?style=for-the-badge&logo=stackoverflow)][stackoverflow]
-<!-- [![Freelancer Profile](https://img.shields.io/badge/-freelancer-orange?style=for-the-badge&logo=freelancer)][freelancer] -->
-
-
+<div align="center">
+  <a href="https://upwork.com/freelancers/huzaifamk">
+    <img src="https://img.shields.io/badge/-UpWork-blueviolet?style=for-the-badge&logo=upwork" />
+  </a>
+  <a href="https://fiverr.com/huzaifa_mk">
+    <img src="https://img.shields.io/badge/-Fiverr-red?style=for-the-badge&logo=fiverr" />
+  </a>
+  <a href="https://linkedin.com/in/huzaifamk">
+    <img src="https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://facebook.com/HuzaifaMkXe">
+    <img src="https://img.shields.io/badge/-facebook-ff69b4?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://www.instagram.com/invites/contact/?i=1s0c75iqqwj90&utm_content=1ymibvc">
+    <img src="https://img.shields.io/badge/-insta-blue?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://stackoverflow.com/users/15244379/hmk">
+    <img src="https://img.shields.io/badge/-stackoverflow-yellow?style=for-the-badge&logo=stackoverflow" />
+  </a>
+</div>
 
 <h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
 
@@ -38,11 +49,8 @@
 </a> </p>
 
 <h2 align="center">MY STATS</h2>
-<!-- <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamk&theme=radical&border=FFFFFF" alt="huzaifamk" /></p> -->
 <p align="center"><img align="center" width="47%" src="https://streak-stats.demolab.com?user=huzaifamk&theme=radical" alt="huzaifamk" />
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=huzaifamk&count_private=true&theme=aura&show_icons=true&locale=en" alt="huzaifamk" /></p>
-<!-- <img align="center" width="40%" src="https://stats.justsong.cn/api/leetcode/?username=huzaifamk&theme=dark" alt="huzaifamk" /></p> -->
-<!-- <h2 align="center">&nbsp;&nbsp;</h2> -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamk&theme=chartreuse-dark&langs_count=10&layout=compact" alt="huzaifamk" /></p>
 
 [upwork]: https://upwork.com/freelancers/huzaifamk
@@ -51,12 +59,3 @@
 [fiverr]: https://fiverr.com/huzaifa_mk
 [stackoverflow]: https://stackoverflow.com/users/15244379/hmk
 [facebook]: https://facebook.com/HuzaifaMkXe
-[freelancer]: https://freelancer.com/u/HuzaifaMk
-
-<!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  -->
-
-<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  --> 

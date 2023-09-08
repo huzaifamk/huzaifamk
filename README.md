@@ -25,13 +25,13 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, Greenbox SE & EquipHunter)
 
-- 💠 I have **2+ years** of experience in programming! 🟣
+- 💠 I have **2+ years** of experience in programming! 🟣 (Gaining more & more!)
 
-- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Node & PHP** 🟢
+- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Solidity** 🟢
 
-- ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2), GCP & Azure** 🔵
+- ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)* 🔵
 
-- ⚙️ I’m currently learning **PHP Laravel, Web3 Development & Solidity** 🟠
+- ⚙️ I’m currently learning **Web3 Development & Solidity | Python** 🟠
 
 - 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡
 
@@ -41,11 +41,11 @@
 
 - ⚡ Fun fact about me: **I keep learning!** 🔴
 
-- 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services** 🔵
+- 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services | Web3** 🔵
 
 <h2 align="center">MY TECH STACK</h2>
 <p align="center"> <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=go,py,django,flask,nodejs,express,solidity,fastapi,elixir,cpp,html,css,js,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,graphql,heroku,bots,git,gitlab,githubactions,kubernetes,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,py,django,flask,nodejs,express,solidity,fastapi,elixir,cpp,html,css,js,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,graphql,heroku,bots,git,githubactions,kubernetes,docker&perline=9" />
 </a> </p>
 
 <h2 align="center">MY STATS</h2>

@@ -44,7 +44,7 @@
 - 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services** 🔵
 
 <h2 align="center">MY TECH STACK</h2>
-<p align="center"> <a href="https://skillicons.dev">
+<p align="center"> <a href="https://skillicons.dev" align="center">
 <img src="https://skillicons.dev/icons?i=go,py,django,flask,nodejs,express,solidity,fastapi,elixir,cpp,html,css,js,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,gcp,azure,graphql,heroku,jenkins,nginx,bots,git,gitlab,githubactions,kubernetes,docker,vim&perline=12" />
 </a> </p>
 

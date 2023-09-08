@@ -29,7 +29,7 @@
 
 - ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Solidity** 🟢
 
-- ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)* 🔵
+- ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)** 🔵
 
 - ⚙️ I’m currently learning **Web3 Development & Solidity | Python** 🟠
 

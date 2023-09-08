@@ -23,7 +23,7 @@
 
 <h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
 
-- 🔭 I’m currently working as a **Backend Developer** 🔴
+- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, Greenbox SE & EquipHunter)
 
 - 💠 I have **2+ years** of experience in programming! 🟣
 

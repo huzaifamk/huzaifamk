@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Huzaifa Mk - aka Hmk 🔰</h1>
+<h1 align="center">Hi there, I'm Huzaifa M. - aka Hmk 🔰</h1>
 
 <div align="center">
   <a href="https://upwork.com/freelancers/huzaifamk">

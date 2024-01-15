@@ -23,9 +23,9 @@
 
 <h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
 
-- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, Greenbox SE & EquipHunter)
+- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, CAGR & EquipHunter)
 
-- 💠 I have **2+ years** of experience in programming! 🟣 (Gaining more & more!)
+- 💠 I have **3+ years** of experience in programming! 🟣 (Gaining more & more!)
 
 - ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Solidity** 🟢
 
@@ -35,7 +35,7 @@
 
 - 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡
 
-- 🎯 2023 Goals: **Rust | Blockchain | Web3** 🟤
+- 🎯 2024 Goals: **Rust | Blockchain | Web3** 🟤
 
 - 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 

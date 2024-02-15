@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h3 align="center">⚡ A Young Backend Developer & CS Student ⚡</h3>
+<h3 align="center">⚡ Expert in Go, Node & Python Backend Development ⚡</h3>
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, CAGR & EquipHunter)
 

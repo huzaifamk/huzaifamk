@@ -27,7 +27,7 @@
 
 - 💠 I have **3+ years** of experience in programming! 🟣 (Gaining more & more!)
 
-- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | Python (Djnago & Flask) | Solidity** 🟢
+- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | NodeJS (Express) | Python (Djnago & Flask)** 🟢
 
 - ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)** 🔵
 

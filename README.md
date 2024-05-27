@@ -23,7 +23,7 @@
 
 <h3 align="center">⚡ Expert in Go, Node & Python Backend Development ⚡</h3>
 
-- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen, FAND & EquipHunter)
+- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen & FAND)
 
 - 💠 I have **3+ years** of experience in programming! 🟣 (Gaining more & more!)
 

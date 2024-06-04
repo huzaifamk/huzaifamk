@@ -47,7 +47,7 @@
 <p align="center"> <a href="https://skillicons.dev">
 <!-- <img src="https://skillicons.dev/icons?i=go,py,django,flask,nodejs,express,solidity,fastapi,elixir,cpp,html,css,js,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,graphql,heroku,bots,git,githubactions,kubernetes,docker&perline=9" />
 </a> </p> -->
-<img src="https://skillicons.dev/icons?i=go,py,django,flask,solidity,fastapi,elixir,cpp,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,graphql,heroku,bots,git,githubactions,kubernetes,docker&perline=9" />
+<img src="https://skillicons.dev/icons?i=go,rust, cpp, py,django,flask,solidity,fastapi,elixir,mongodb,mysql,postgres,sqlite,redis,aws,dynamodb,graphql,heroku,git,githubactions,kubernetes,docker&perline=7" />
 </a> </p>
 
 <h2 align="center">MY STATS</h2>

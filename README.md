@@ -45,7 +45,7 @@
 
 <h2 align="center">MY TECH STACK</h2>
 <p align="center"> <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=go,rust,cpp,py,django,flask,fastapi,pytorch,tensorflow,solidity,redis,postgres,mysql,mongodb,sqlite,dynamodb,aws,nginx,rabbitmq,graphql,elasticsearch,wasm,docker,kubernetes,git,gitlab,heroku,linux,ubuntu,bash&perline=9" />
+<img src="https://skillicons.dev/icons?i=go,rust,cpp,py,django,flask,fastapi,pytorch,tensorflow,solidity,redis,postgres,mysql,mongodb,sqlite,dynamodb,aws,nginx,rabbitmq,graphql,elasticsearch,wasm,docker,kubernetes,git,gitlab,heroku,linux,ubuntu,bash&perline=10" />
 </a> </p>
 
 <h2 align="center">MY STATS</h2>

@@ -21,27 +21,27 @@
   </a>
 </div>
 
-<h3 align="center">⚡ Expert in Go, Node & Python Backend Development ⚡</h3>
+<h3 align="center">⚡ Expert in Go, C++ & Python Backend Development ⚡</h3>
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen & FAND)
 
 - 💠 I have **3+ years** of experience in programming! 🟣 (Gaining more & more!)
 
-- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | NodeJS (Express) | Python (Djnago & Flask)** 🟢
+- ✅ I have worked on **Go (GIN, Echo, Gorilla Mux, Fiber) | C++ | Python (Djnago, Flask & FastAPI etc)** 🟢
 
 - ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)** 🔵
 
 - ⚙️ I’m currently learning **Web3 Development & Solidity | Python** 🟠
 
-- 👯 I’m looking to collaborate on **Golang, Python, Node & Web3 Open-Source Projects!** 🟡
+- 👯 I’m looking to collaborate on **Golang, Python, C++ & Rust Open-Source Projects!** 🟡
 
-- 🎯 2024 Goals: **Rust | Blockchain | Web3** 🟤
+- 🎯 2024 Goals: **Rust | Machine Learning | Deep Learning** 🟤
 
 - 👨‍💻 All of my projects are available at my **GitHub**! 🟢
 
 - ⚡ Fun fact about me: **I keep learning!** 🔴
 
-- 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services | Web3** 🔵
+- 💬 Ask me about **Backend Architecture | MVC Framework | Micro-Services | ML/DL** 🔵
 
 <h2 align="center">MY TECH STACK</h2>
 <p align="center"> <a href="https://skillicons.dev">

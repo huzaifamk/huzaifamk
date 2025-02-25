@@ -23,7 +23,7 @@
 
 <h3 align="center">⚡ Expert in Go & Python Development ⚡</h3>
 
-- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen & FAND)
+- 🔭 I’m currently working as a **Backend Developer** 🔴 (Associated with Globe&Citizen)
 
 - 💠 I have **3+ years** of experience in programming! 🟣 (Gaining more & more!)
 
@@ -31,9 +31,9 @@
 
 - ☁️ On the cloud side, I know **AWS(S3, Lambda, DynamoDB, EC2)** 🔵
 
-- ⚙️ I’m currently learning **Web3 Development & Solidity | Python** 🟠
+- ⚙️ I’m currently learning **Rust | Python | Machine/Deep Learning** 🟠
 
-- 👯 I’m looking to collaborate on **Golang, Python, C++ & Rust Open-Source Projects!** 🟡
+- 👯 I’m looking to collaborate on **Golang, Python, & Rust Open-Source Projects!** 🟡
 
 - 🎯 2024 Goals: **Rust | Machine Learning | Deep Learning** 🟤
 
